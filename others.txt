@@ -1,0 +1,20 @@
+https://github.com/VigneswaraReddy/MachineLearniningProjects/blob/master/Capstone_Intro.ipynb
+
+
+https://github.com/smhwang99/Coursera_Capstone/blob/master/The%20Battle%20of%20Neighborhoods%20-%20Week%201%20Part-1.ipynb
+
+
+https://github.com/ThaveeshaC/Coursera_Capstone/blob/master/Capston%20Project%20Report%20-%20Introduction.pdf
+
+
+
+Moving across states might be a complicated thing, especially for someone who does not want to take risks living out of comfort zone, 
+living in a completely different neighbourhood. People might want to find similar neighbourhood to live in. In this project, 
+I'd like to recommend neighbourhoods to a person who will move from Melbourne to Adelaide, specifically preferred living within 10km radius 
+from Central Business District (CBD).
+
+•	Australia post codes, taken from https://raw.githubusercontent.com/Elkfox/Australian-Postcode-Data/master/au_postcodes.json
+This data takes Post Code, State, and coordinates (longitude and latitude)
+•	Four Square Data, taken from the provided API
+Four square requests can help gather venues information in the target area.
+
