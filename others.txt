@@ -22,3 +22,10 @@ Four square requests can help gather venues information in the target area.
 https://github.com/mindal0115/Coursera_Capstone/blob/master/Final%20Project/%5BFinal%20Report%5D_Explore%20New%20Place_LEEJUNSEONG.pdf
 
 https://github.com/ThaveeshaC/Coursera_Capstone/blob/master/CapstoneProject_Coursera.ipynb
+
+
+https://github.com/krismeiria/coursera_capstone/blob/master/Living%20Recommendation%20-%20Adelaide%20CBD.ipynb
+
+https://github.com/animuss/week-5-capstone/blob/master/week%205%20capstone.ipynb
+
+https://github.com/jeffcarson/Coursera_Capstone/blob/master/Final%20Capstone%20Project.ipynb
