@@ -18,3 +18,7 @@ This data takes Post Code, State, and coordinates (longitude and latitude)
 •	Four Square Data, taken from the provided API
 Four square requests can help gather venues information in the target area.
 
+
+https://github.com/mindal0115/Coursera_Capstone/blob/master/Final%20Project/%5BFinal%20Report%5D_Explore%20New%20Place_LEEJUNSEONG.pdf
+
+https://github.com/ThaveeshaC/Coursera_Capstone/blob/master/CapstoneProject_Coursera.ipynb
