@@ -29,3 +29,5 @@ https://github.com/krismeiria/coursera_capstone/blob/master/Living%20Recommendat
 https://github.com/animuss/week-5-capstone/blob/master/week%205%20capstone.ipynb
 
 https://github.com/jeffcarson/Coursera_Capstone/blob/master/Final%20Capstone%20Project.ipynb
+
+https://github.com/jeffcarson/Coursera_Capstone/blob/master/Capstone%20-%20Final%20Project%20Report.pdf
